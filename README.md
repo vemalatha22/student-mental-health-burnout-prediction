@@ -84,4 +84,4 @@ This project demonstrates how machine learning can be applied to analyze student
 
 ## Author
 
-Developed by [Your Name]
+Developed by Vemalatha Bhimireddy
